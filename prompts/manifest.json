@@ -1,0 +1,32 @@
+{
+  "package": "kafka_rust_rewrite_prompts_es",
+  "generated_files": [
+    "01_vision_y_requisitos_no_negociables.md",
+    "02_inventario_y_mapeo_del_codigo_kafka_actual.md",
+    "03_workspace_rust_y_normas_de_implementacion.md",
+    "04_protocolo_kafka_y_generacion_de_mensajes.md",
+    "05_runtime_async_red_y_gestion_de_conexiones.md",
+    "06_despacho_de_requests_y_pipeline_del_broker.md",
+    "07_almacenamiento_segmentado_indices_y_recuperacion.md",
+    "08_limpieza_de_logs_retencion_y_compaction.md",
+    "09_replica_manager_isr_liderazgo_y_fetch.md",
+    "10_modelo_de_metadatos_y_publicacion.md",
+    "11_raft_kraft_nativo_en_rust.md",
+    "12_controller_y_gestion_del_quorum.md",
+    "13_migracion_de_zookeeper_a_metadatos_raft.md",
+    "14_modelo_de_multitenencia_y_namespaces.md",
+    "15_cuotas_aislamiento_de_recursos_y_qos.md",
+    "16_seguridad_autenticacion_autorizacion_y_politicas.md",
+    "17_coordinador_de_grupos_y_rebalance.md",
+    "18_transacciones_idempotencia_y_producer_ids.md",
+    "19_share_groups_y_protocolos_modernos.md",
+    "20_cliente_productor_rust.md",
+    "21_cliente_consumidor_rust.md",
+    "22_herramientas_admin_cli_y_metadata_shell.md",
+    "23_observabilidad_diagnostico_y_operacion.md",
+    "24_despliegue_cloud_native_y_kubernetes.md",
+    "25_pruebas_compatibilidad_y_migraciones.md",
+    "26_benchmarks_hardening_y_plan_de_entrega.md"
+  ],
+  "count": 26
+}
